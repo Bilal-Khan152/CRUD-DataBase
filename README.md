@@ -1,0 +1,1 @@
+This is a basic web application built using Express.js and EJS for server-side rendering. It performs full CRUD operations with MongoDB as the database. Users can add their name, email, and image, which are stored in the database and displayed dynamically on the UI. The app supports real-time updates, allowing users to edit or delete entries seamlessly.
